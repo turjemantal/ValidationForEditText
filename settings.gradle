@@ -1,0 +1,3 @@
+include ':ValidationForEditText'
+include ':app'
+rootProject.name = "LibraryUpload"
