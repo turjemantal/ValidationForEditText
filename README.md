@@ -1,3 +1,4 @@
+	https://img.shields.io/github/issues/turjemantal/ValidationForEditText
 In this library you will find a some Usefulness methods to use on EditText text
 
 Install this in your Android studio:
